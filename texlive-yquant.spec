@@ -1,6 +1,6 @@
 Name:		texlive-yquant
-Version:	63255
-Release:	2
+Version:	68997
+Release:	1
 Summary:	Typesetting quantum circuits in a human-readable language
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yquant
