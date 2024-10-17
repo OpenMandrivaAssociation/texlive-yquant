@@ -3,7 +3,7 @@ Version:	68997
 Release:	1
 Summary:	Typesetting quantum circuits in a human-readable language
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yquant
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yquant
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yquant.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yquant.doc.r%{version}.tar.xz
