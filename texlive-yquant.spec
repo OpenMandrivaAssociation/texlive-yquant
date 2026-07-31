@@ -1,9 +1,9 @@
 %global tl_name yquant
-%global tl_revision 77263
+%global tl_revision 79707
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	0.9
+Version:	0.9.1
 Release:	%{tl_revision}.1
 Summary:	Typesetting quantum circuits in a human-readable language
 Group:		Publishing
